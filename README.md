@@ -10,7 +10,7 @@ outlined below.
 ## AVL Tree
 You will make our Binary Search Tree (from last lab) into an AVL tree as shown
 in the following UML class diagram.
-![Class Diagram](images/class_diagram.png)
+![Class Diagram](/class_diagram.png)
 
 ### Step 1: Modify the BinaryTreeNode class
 To implement an AVL tree you will need to modify our implementation of the
